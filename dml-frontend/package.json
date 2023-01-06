@@ -7,7 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-file-base64": "^1.0.3",
-    "react-scripts": "0.9.x"
+    "react-scripts": "5.0.x"
   },
   "devDependencies": {},
   "scripts": {
